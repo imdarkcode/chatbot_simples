@@ -11,7 +11,7 @@ Siga os passos abaixo para clonar o projeto e executá-lo em sua máquina local.
 Abra o seu terminal ou prompt de comando e execute.
 
 ```Bash
-git clone https://github.com/imdarkcode/chatbot_langchain
+git clone https://github.com/imdarkcode/chatbot_simples
 ```
 
 **2. Configurar o ambiente**
